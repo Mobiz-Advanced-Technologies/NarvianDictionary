@@ -1,5 +1,8 @@
-# The complete Narvian dictionary
+# The Narvian translator
+Translate English to Narvian quickly with this website:
+https://mobiz-advanced-technologies.github.io/Mobiz-Advanced-Narvian-Dictionary/
 
+# The complete Narvian dictionary
 Quick learning of the Narvian language for advanced learners
 
 | English | Narvian |
