@@ -1,4 +1,5 @@
 # The complete Narvian dictionary
+
 Quick learning of the Narvian language for advanced learners
 
 | English | Narvian |
